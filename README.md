@@ -1,1 +1,2 @@
-# comp-2068
+# COMP2068-thursday
+A blogging platform

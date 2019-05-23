@@ -1,0 +1,23 @@
+{
+  "name": "comp2068-thursday",
+  "version": "1.0.0",
+  "description": "blogging platform",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lalit2506/COMP2068-thursday.git"
+  },
+  "author": "Lalit Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lalit2506/COMP2068-thursday/issues"
+  },
+  "homepage": "https://github.com/Lalit2506/COMP2068-thursday#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
